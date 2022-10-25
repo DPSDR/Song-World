@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "name": "Artcell",
+        "Albums": "Onnoshomoy (2002), Oniket Prantor (2006)",
+        "img": "https://ibb.co/xGqz8s8"
+    },
+    {
+        "id": 2,
+        "name": "Arbovirus",
+        "Albums": "64m 53s (2007)",
+        "img": "https://ibb.co/GWk6HkW"
+    },
+    {
+        "id": 3,
+        "name": "Arnob",
+        "Albums": "Chaina Bhabish (2005), Hok Kolorob (2006), Doob (2008). Arnob % Friends Live (2009), Rodh Boleche Hobe (2010), Adheka Ghume (2012)",
+        "img": "https://ibb.co/C0RHWq5"
+    },
+    {
+        "id": 4,
+        "name": "Sumon (Bassbaba)",
+        "Albums": "Sumon O Aurtohin (1997), Shopnogulo Tomar (2001), Megher Deshe ( A Tribute to John Denver) (2005), Boka Manushta (Sumon O Autrthohin 2) (2007), Ekhon Ami (2008)",
+        "img": "https://ibb.co/NVTH9Pp"
+    },
+    {
+        "id": 5,
+        "name": "Aurthohin",
+        "Albums": "Trimatrik (2000), Biborton (2001), Notun Diner Michile (2002), Dhrubok (2003), Aushomapto 1 (2008), Ashomapto 2 (2011)",
+        "img": "https://ibb.co/9rRHx5S"
+    },
+    {
+        "id": 6,
+        "name": "Bangla",
+        "Albums": "Kingkortobbobimurh (2002), Prottutponnomotitto (2006)",
+        "img": "https://ibb.co/0KMspZD"
+    },
+    {
+        "id": 7,
+        "name": "Black",
+        "Albums": "Amar Prithibi (2002), Utoshober Por (2003), Abar (2008), Black (2011)",
+        "img": "https://ibb.co/6Xdqz46"
+    },
+    {
+        "id": 8,
+        "name": "Breach",
+        "Albums": "Breach (2006)",
+        "img": "https://ibb.co/q78MFXh"
+    },
+    {
+        "id": 9,
+        "name": "Cryptic Fate",
+        "Albums": "Ends are Forever (1995), Sreshtho (2002), Danob (2006)",
+        "img": "https://ibb.co/LkXmyGK"
+    },
+    {
+        "id": 10,
+        "name": "Elephent Road",
+        "Albums": "Elephant Road (2005)",
+        "img": "https://ibb.co/zV6Lwfr"
+    },
+    {
+        "id": 11,
+        "name": "GrooveTrap",
+        "Albums": "GrooveTrap (2008)",
+        "img": "https://ibb.co/FbQDmBf"
+    },
+    {
+        "id": 12,
+        "name": "Icons",
+        "Albums": "Ishshoronio (2005)",
+        "img": "https://ibb.co/yXyWDmH"
+    },
+    {
+        "id": 13,
+        "name": "In Dhaka",
+        "Albums": "Nishshobdo Kolahol (1992)",
+        "img": "https://ibb.co/1L1dPRj"
+    },
+    {
+        "id": 14,
+        "name": "Kranti",
+        "Albums": "Kranti (2003)",
+        "img": "https://ibb.co/SQzgfFp"
+    },
+    {
+        "id": 15,
+        "name": "Kronic",
+        "Albums": "Asroy (2005)",
+        "img": "https://ibb.co/Lh9bLk9"
+    },
+    {
+        "id": 16,
+        "name": "Mechanix",
+        "Albums": " Oporajeyo (2011)",
+        "img": "https://ibb.co/gTrzTqC"
+    },
+    {
+        "id": 17,
+        "name": "Meghdol",
+        "Albums": "Droher Montre Bhalobasha ,(2005), Shohorbondi (2007)",
+        "img": "https://ibb.co/9YQq6b0"
+    },
+    {
+        "id": 18,
+        "name": "Minerva",
+        "Albums": "Biday Shongbidhan (2013)",
+        "img": "https://ibb.co/jvyfV9q"
+    },
+    {
+        "id": 19,
+        "name": "Nemsis",
+        "Albums": "Onnenshon (2006), Titiyo ,Jatra (2011)",
+        "img": "https://ibb.co/BgcZqz4"
+    },
+    {
+        "id": 20,
+        "name": "Paper Rhyme",
+        "Albums": "Paper Rhyme (1996)",
+        "img": "https://ibb.co/Z8vgYcg"
+    },
+    {
+        "id": 21,
+        "name": "Poizon Green",
+        "Albums": "Poizon Green (2006)",
+        "img": "https://ibb.co/Y8xRZQp"
+    },
+    {
+        "id": 22,
+        "name": "Powersurge",
+        "Albums": "Oprostut juddho (2008)",
+        "img": "https://ibb.co/sqRm1Yq"
+    },
+    {
+        "id": 23,
+        "name": "Prayer Hall",
+        "Albums": "Bujhcho?! (2006)",
+        "img": "https://ibb.co/Qd8PYt4"
+    },
+    {
+        "id": 24,
+        "name": "Rockstrata",
+        "Albums": "Rockstrata (1990)",
+        "img": "https://ibb.co/dgyRm4L"
+    },
+    {
+        "id": 25,
+        "name": "Scarecrow",
+        "Albums": "Oparthib (2006), Scarecrow (2013)",
+        "img": "https://ibb.co/HFT5t9R"
+    },
+    {
+        "id": 26,
+        "name": "Shironamhin",
+        "Albums": "Jahaji (2004), Ichchhe Ghuri (2006), Bondho Janala (2009), Rabindranath (2010), Shironamhin (2013)",
+        "img": "https://ibb.co/MfNYSV2"
+    }
+]
